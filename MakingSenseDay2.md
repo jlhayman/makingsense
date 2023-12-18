@@ -46,7 +46,7 @@ and many, many more examples.
 ![data visualization showing node connections between a variety of open
 education community members some connections have more lines and bold
 lines to demonstrate a higher number of tweets and
-retweets](media/image4.png){width="6.5in" height="4.875in"}
+retweets](Day2image001.png){width="6.5in" height="4.875in"}
 
 [GO-GN NodeXL graphic by Aras
 Bozkurt](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=149080)
@@ -110,7 +110,7 @@ develops, shares and maintains its core of knowledge (Wikipedia,
 Community of Practice, n.d.)
 
 ![image of a megaphone to indicate important
-content](media/image1.png){width="1.1805555555555556in"
+content](Day2image004.jpg){width="1.1805555555555556in"
 height="1.1805555555555556in"}
 
 Wikipedia provides an effective introduction to Lave and Wenger's
@@ -119,7 +119,7 @@ Community of Practice model. Go exploring at the following link
 exploration): https://en.wikipedia.org/wiki/Community_of_practice
 
 ![photo of a group of approximately 30 people at a
-conference](media/image3.jpg){width="6.5in" height="4.875in"}
+conference](Day2image005.jpg){width="6.5in" height="4.875in"}
 
 [the ROER4D team at #oeglobal Cape
 Town](https://www.flickr.com/photos/catherinecronin/32984020470/in/photolist-SfFJ97-shbfKE-rmib5P-FjHULy-RuS2aj-rkjDSN-G71ANJ-shtLoX-sfbxJA-G9jKUF-rkwkvx-shjZEG-Gb6WhU-FjHPLU-G71FXw-rZUxqu-s4rBKQ-shhm16-FhWAUN-shke8J-shk7jy-G71Fso-SB8bQf-G7y7Hk-FjUxec-Gb73bY-G71ERU-RzmFri-G5eSDY-GdpkdB-SDyCMT-SC2ubc-SDyTt6-G5eJdu-FhXJbj-Fi9bhM-RwS9Zq-Fi9x7T-GdpHHr-G5feYm-RxbEuS-SwHowx-SwHMEg-Sv6iwb-FNi4rs-SB86WN-GdpQ4c-GdpFm2-SDyoTF-Fi9jWF/)
@@ -184,7 +184,7 @@ been successful thus far with the "open community?" These questions will
 be part of the daily reflection for today's module.
 
 ![image of a megaphone to indicate important
-content](media/image2.png){width="1.1805555555555556in"
+content](Day2image004.jpg){width="1.1805555555555556in"
 height="1.1805555555555556in"}
 
 The following article [A Meta-Analysis of Open Educational Communities
