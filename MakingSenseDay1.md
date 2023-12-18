@@ -57,14 +57,14 @@ explore the following:
 
 ![illustration of a variety of words related to open education including
 sharing, redistribute, retain, reuse, remix, revise, OER transforms
-access, affordability](media/image2.jpg){width="6.041666666666667in"
+access, affordability](Day1image001.jpg){width="6.041666666666667in"
 height="4.222222222222222in"}
 
 [OER is Sharing](https://www.flickr.com/photos/gforsythe/38088290601/)
 by Giulia Forsythe is shared with a CC BY 4.0 International license
 
 ![icon of a megaphone to indicate important
-content](MakingSenseDay1_Image1.jpg){width=".5in"
+content](Day1image002.jpg){width=".5in"
 height=".5in"}
 
 The [Cape Town Open Education
@@ -219,7 +219,7 @@ to learn.
 #### **The Five Rs**
 
 ![icon of a megaphone to indicate important
-content](megaphone_nounproject_gregorcresnar.png){width=".25in"
+content](Day1image003.jpg){width=".25in"
 height=".25in"}
 
 Read the following short blog post (5 minute read) on the Five Rs of
@@ -233,7 +233,7 @@ course. The illustration below is a quick introduction to the most
 common open license (and icons) that you\'ll see when exploring OER.
 
 ![list of the creative commons licenses with requirements for
-use](media/image5.png){width="6.5in" height="4.972222222222222in"}
+use](Day1image004.jpg){width="6.5in" height="4.972222222222222in"}
 
 [(]{.mark}[Creative Commons licenses
 explained](http://foter.com/blog/how-to-attribute-creative-commons-photos/)
@@ -280,7 +280,7 @@ Sensemaking is to be understood literally, not metaphorically" (Weick,
 
 ![illustration of two human heads made of small colourful cogs, there
 are cogs between the two heads meant to indicate a sharing of
-ideas](media/image4.jpg){width="4.416666666666667in" height="2.75in"}
+ideas](Day1image006.jpg){width="4.416666666666667in" height="2.75in"}
 
 [Knowledge-sharing](https://commons.wikimedia.org/wiki/File:Knowledge-sharing.jpg)
 by
