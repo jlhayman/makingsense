@@ -64,7 +64,7 @@ height="4.222222222222222in"}
 by Giulia Forsythe is shared with a CC BY 4.0 International license
 
 ![icon of a megaphone to indicate important
-content](media/image1.png){width="1.1805555555555556in"
+content](MakingSenseDay1_Image1.jpg){width="1.1805555555555556in"
 height="1.1805555555555556in"}
 
 The [Cape Town Open Education
