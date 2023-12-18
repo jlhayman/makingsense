@@ -64,8 +64,8 @@ height="4.222222222222222in"}
 by Giulia Forsythe is shared with a CC BY 4.0 International license
 
 ![icon of a megaphone to indicate important
-content](MakingSenseDay1_Image1.jpg){width="1.1805555555555556in"
-height="1.1805555555555556in"}
+content](MakingSenseDay1_Image1.jpg){width=".5in"
+height=".5in"}
 
 The [Cape Town Open Education
 Declaration](http://www.capetowndeclaration.org/read-the-declaration)
@@ -219,8 +219,8 @@ to learn.
 #### **The Five Rs**
 
 ![icon of a megaphone to indicate important
-content](megaphone_nounproject_gregorcresnar.png){width="1.1805555555555556in"
-height="1.1805555555555556in"}
+content](megaphone_nounproject_gregorcresnar.png){width=".25in"
+height=".25in"}
 
 Read the following short blog post (5 minute read) on the Five Rs of
 OER: [Defining the \"Open\" in Open Content and Open Educational
