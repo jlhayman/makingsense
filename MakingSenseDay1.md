@@ -219,7 +219,7 @@ to learn.
 #### **The Five Rs**
 
 ![icon of a megaphone to indicate important
-content](media/image3.png){width="1.1805555555555556in"
+content](megaphone_nounproject_gregorcresnar.png){width="1.1805555555555556in"
 height="1.1805555555555556in"}
 
 Read the following short blog post (5 minute read) on the Five Rs of
