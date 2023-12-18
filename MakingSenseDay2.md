@@ -46,7 +46,7 @@ and many, many more examples.
 ![data visualization showing node connections between a variety of open
 education community members some connections have more lines and bold
 lines to demonstrate a higher number of tweets and
-retweets](Day2image001.png){width="6.5in" height="4.875in"}
+retweets](Day2image002.jpg){width="6.5in" height="4.875in"}
 
 [GO-GN NodeXL graphic by Aras
 Bozkurt](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=149080)
