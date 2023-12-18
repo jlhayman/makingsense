@@ -280,7 +280,7 @@ Sensemaking is to be understood literally, not metaphorically" (Weick,
 
 ![illustration of two human heads made of small colourful cogs, there
 are cogs between the two heads meant to indicate a sharing of
-ideas](Day1image006.png){width="4.416666666666667in" height="2.75in"}
+ideas](Day1image006.jpg){width="4.416666666666667in" height="2.75in"}
 
 [Knowledge-sharing](https://commons.wikimedia.org/wiki/File:Knowledge-sharing.jpg)
 by
