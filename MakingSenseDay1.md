@@ -64,7 +64,7 @@ height="4.222222222222222in"}
 by Giulia Forsythe is shared with a CC BY 4.0 International license
 
 ![icon of a megaphone to indicate important
-content](Day1image002.jpg){width=".5in"
+content](Day1image002.png){width=".5in"
 height=".5in"}
 
 The [Cape Town Open Education
@@ -233,7 +233,7 @@ course. The illustration below is a quick introduction to the most
 common open license (and icons) that you\'ll see when exploring OER.
 
 ![list of the creative commons licenses with requirements for
-use](Day1image004.jpg){width="6.5in" height="4.972222222222222in"}
+use](Day1image004.png){width="6.5in" height="4.972222222222222in"}
 
 [(]{.mark}[Creative Commons licenses
 explained](http://foter.com/blog/how-to-attribute-creative-commons-photos/)
@@ -280,7 +280,7 @@ Sensemaking is to be understood literally, not metaphorically" (Weick,
 
 ![illustration of two human heads made of small colourful cogs, there
 are cogs between the two heads meant to indicate a sharing of
-ideas](Day1image006.jpg){width="4.416666666666667in" height="2.75in"}
+ideas](Day1image006.png){width="4.416666666666667in" height="2.75in"}
 
 [Knowledge-sharing](https://commons.wikimedia.org/wiki/File:Knowledge-sharing.jpg)
 by
