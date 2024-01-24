@@ -57,15 +57,13 @@ explore the following:
 
 ![illustration of a variety of words related to open education including
 sharing, redistribute, retain, reuse, remix, revise, OER transforms
-access, affordability](Day1image001.jpg){width="6.041666666666667in"
-height="4.222222222222222in"}
+access, affordability](Day1image001.jpg)
 
 [OER is Sharing](https://www.flickr.com/photos/gforsythe/38088290601/)
 by Giulia Forsythe is shared with a CC BY 4.0 International license
 
 ![icon of a megaphone to indicate important
-content](Day1image003.jpg){width=".5in"
-height=".5in"}
+content](Day1image003.jpg)
 
 The [Cape Town Open Education
 Declaration](http://www.capetowndeclaration.org/read-the-declaration)
